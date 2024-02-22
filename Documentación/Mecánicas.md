@@ -12,7 +12,7 @@ Guiar a Bob (personaje principal) a tráves de un escenario resguardado por múl
 
 ▭▬▬ ▬ ▬▬▬▬▛ • ▜▬▬▬▬ ▬ ▬▬▭
 
-◢▆█▆█▆█◣▲◢█▆█▆█▆◣
+▭▬▬ ▬ ▬▬▬▬▛ • ▜▬▬▬▬ ▬ ▬▬▭
 
 -Mecánicas / Elementos:
 
@@ -23,6 +23,6 @@ Guiar a Bob (personaje principal) a tráves de un escenario resguardado por múl
 3. Recolección de Monedas + Desbloqueo de Zonas: El objetivo es hacer lo más rico posible a Bob, por lo que es importante que las tome no sólo para aumentar su puntuación final, sino también para desbloquear la puerta que le llevará al siguiente nivel. Si Bob llegase a la puerta final y no contase con el número mínimo requerido de monedas, esta no le permitirá avanzar hasta que regrese y recolecte la cantidad indicada o más.
 
 4. Canjeo de Monedas por Vida: Bob puede usar una parte de sus monedas recogidas para recuperar algo de salud, sin embargo, esto le forzará a regresar en el nivel para encontrar nuevas monedas para poder abrir la puerta final.
-
-◢▆█▆█▆█◣▲◢█▆█▆█▆◣
+   
+▭▬▬ ▬ ▬▬▬▬▛ • ▜▬▬▬▬ ▬ ▬▬▭
 
