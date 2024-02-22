@@ -12,8 +12,6 @@ Guiar a Bob (personaje principal) a tráves de un escenario resguardado por múl
 
 ▭▬▬ ▬ ▬▬▬▬▛ • ▜▬▬▬▬ ▬ ▬▬▭
 
-▭▬▬ ▬ ▬▬▬▬▛ • ▜▬▬▬▬ ▬ ▬▬▭
-
 -Mecánicas / Elementos:
 
 1. Movimiento Horizontal: Bob únicamente puede moverse por el escenario de izquierda a derecha.
