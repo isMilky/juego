@@ -6,7 +6,7 @@
 
 ▭▬▬ ▬ ▬▬▬▬▛ • ▜▬▬▬▬ ▬ ▬▬▭
 
-# Premisa:
+-Premisa:
 
 Guiar a Bob (personaje principal) a tráves de un escenario resguardado por múltiples enemigos en el camino mientras recoge la mayor cantidad de monedas posibles.
 
@@ -14,7 +14,7 @@ Guiar a Bob (personaje principal) a tráves de un escenario resguardado por múl
 
 ◢▆█▆█▆█◣▲◢█▆█▆█▆◣
 
-# Mecánicas / Elementos:
+-Mecánicas / Elementos:
 
 1. Movimiento Horizontal: Bob únicamente puede moverse por el escenario de izquierda a derecha.
 
