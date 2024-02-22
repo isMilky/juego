@@ -7,7 +7,7 @@
 
 ▭▬▬ ▬ ▬▬▬▬▛ • ▜▬▬▬▬ ▬ ▬▬▭
 
--Historia:
+-📕 Historia 📕:
 
 Bob es un individuo de aspecto cuadrado con mucho intéres por las riquezas monetarias, especialmente monedas antiguas. Estas estaban almacenadas en una caja fuerte de su casa y guardaba estas riquezas arqueológicas con orgullo. Sin embargo, por un descuido al no asegurar bien su casa al salir unos malandros ingresan y se roban el contenido de la caja fuerte.
 
@@ -15,13 +15,13 @@ Bob, al regresar y darse cuenta de lo ocurrido, decide investigar sobre quienes 
 
 ▭▬▬ ▬ ▬▬▬▬▛ • ▜▬▬▬▬ ▬ ▬▬▭
 
--Premisa:
+-🖋 Premisa 🖋:
 
 Guiar a Bob (personaje principal) a tráves de un escenario resguardado por múltiples enemigos en el camino mientras recoge la mayor cantidad de monedas posibles.
 
 ▭▬▬ ▬ ▬▬▬▬▛ • ▜▬▬▬▬ ▬ ▬▬▭
 
--Mecánicas / Elementos:
+-♻ Mecánicas / Elementos ♻:
 
 1. Movimiento Horizontal: Bob únicamente puede moverse por el escenario de izquierda a derecha.
 
