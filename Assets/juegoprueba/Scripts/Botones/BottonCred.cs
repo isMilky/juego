@@ -7,7 +7,7 @@ public class BottonCred : MonoBehaviour
 {
     public void OnclickCred()
     {
-        MMSceneLoadingManager.LoadScene("Credits");
+        MMSceneLoadingManager.LoadScene("Creditos");
         Debug.Log("Creditos");
     }
 }

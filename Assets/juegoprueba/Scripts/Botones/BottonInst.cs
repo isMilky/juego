@@ -7,7 +7,7 @@ public class BottonInst : MonoBehaviour
 {
     public void OnclickInst()
     {
-        MMSceneLoadingManager.LoadScene("Instrucciones");
+        MMSceneLoadingManager.LoadScene("Inst");
         Debug.Log("Instrucciones");
     }
 }

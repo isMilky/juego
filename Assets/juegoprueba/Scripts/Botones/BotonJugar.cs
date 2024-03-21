@@ -7,7 +7,7 @@ public class BotonJugar : MonoBehaviour
 {
     public void OnclickJugar()
     {
-        MMSceneLoadingManager.LoadScene("Level1");
+        MMSceneLoadingManager.LoadScene("Nivel1");
         Debug.Log("Click");
     }
 }
