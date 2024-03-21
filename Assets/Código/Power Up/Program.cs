@@ -3,8 +3,8 @@ using System.Collections;
 
 public class PowerUpController : MonoBehaviour
 {
-    public bool isSpeedActive = false;
-    public bool isInvincible = false;
+    public bool estaVelocidadActivada = false;
+    public bool estaRegenerandoVida = false;
 
     void OnTriggerEnter(Collider other)
     {
@@ -17,11 +17,11 @@ public class PowerUpController : MonoBehaviour
     void RecolectarPowerUps()
     {
         // Lógica para recolectar Power-Ups
-        isSpeedActive = true;
+        estaVelocidadActivada = true;
         Debug.Log("¡Obtuviste velocidad!");
 
-        isInvincible = true;
-        Debug.Log("¡Eres invencible!");
+        estaRegenerandoVida = true;
+        Debug.Log("¡Regenerando toda la vida!");
 
         // Aplicamos ambos efectos al recolectar el Power-Up
         AplicarEfecto();
@@ -32,16 +32,17 @@ public class PowerUpController : MonoBehaviour
         // Lógica para aplicar el efecto de Power-Ups
         StartCoroutine(DesactivarEfecto());
 
-        if (isSpeedActive)
+        if (estaVelocidadActivada)
         {
             Debug.Log("Efecto de velocidad activado.");
             // Aquí puedes agregar la lógica para aplicar el efecto de velocidad al jugador
         }
 
-        if (isInvincible)
+        if (estaRegenerandoVida)
         {
-            Debug.Log("Efecto de invencibilidad activado.");
-            // Aquí puedes agregar la lógica para aplicar el efecto de invencibilidad al jugador
+            Debug.Log("Regenerando vida...");
+            // Aquí puedes agregar la lógica para regenerar la vida del jugador completamente
+            // Por ejemplo: playerHealth = maxHealth;
         }
     }
 
@@ -50,8 +51,8 @@ public class PowerUpController : MonoBehaviour
         yield return new WaitForSeconds(5f); // Simular la duración del efecto (5 segundos)
 
         // Desactivar ambos efectos después de la duración especificada
-        isSpeedActive = false;
-        isInvincible = false;
+        estaVelocidadActivada = false;
+        estaRegenerandoVida = false;
 
         Debug.Log("Efectos desactivados.");
         // Aquí puedes agregar la lógica para desactivar los efectos del jugador
