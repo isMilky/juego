@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\PowerUps\bin\Debug\net5.0\PowerUps.exe
+C:\Users\Lenovo\source\repos\PowerUps\bin\Debug\net5.0\PowerUps.deps.json
+C:\Users\Lenovo\source\repos\PowerUps\bin\Debug\net5.0\PowerUps.runtimeconfig.json
+C:\Users\Lenovo\source\repos\PowerUps\bin\Debug\net5.0\PowerUps.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\PowerUps\bin\Debug\net5.0\PowerUps.dll
+C:\Users\Lenovo\source\repos\PowerUps\bin\Debug\net5.0\ref\PowerUps.dll
+C:\Users\Lenovo\source\repos\PowerUps\bin\Debug\net5.0\PowerUps.pdb
+C:\Users\Lenovo\source\repos\PowerUps\obj\Debug\net5.0\PowerUps.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\PowerUps\obj\Debug\net5.0\PowerUps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\PowerUps\obj\Debug\net5.0\PowerUps.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\PowerUps\obj\Debug\net5.0\PowerUps.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\PowerUps\obj\Debug\net5.0\PowerUps.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PowerUps\obj\Debug\net5.0\PowerUps.dll
+C:\Users\Lenovo\source\repos\PowerUps\obj\Debug\net5.0\ref\PowerUps.dll
+C:\Users\Lenovo\source\repos\PowerUps\obj\Debug\net5.0\PowerUps.pdb
+C:\Users\Lenovo\source\repos\PowerUps\obj\Debug\net5.0\PowerUps.genruntimeconfig.cache
