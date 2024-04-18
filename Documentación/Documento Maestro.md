@@ -35,3 +35,28 @@ Guiar a Bob (personaje principal) a tráves de un escenario resguardado por múl
    
 ▭▬▬ ▬ ▬▬▬▬▛ • ▜▬▬▬▬ ▬ ▬▬▭
 
+▭▬▬ ▬ ▬▬▬▬▛ • ▜▬▬▬▬ ▬ ▬▬▭
+
+-⭐ Logros ⭐:
+
+1. Salto Bomba: Haz que Bob elimine a un enemigo desde arriba con un salto a gran altura.
+
+2. Intocable: Termina un nivel sin recibir daño alguno.
+
+3. A toda maquina: Termina un nivel en menos de 2 minutos.
+
+4. Ricachón: Consigue acabar un nivel con más de 50 monedas amarillas.
+
+5. Vital: Termina un nivel sin recuperar vida mediante monedas rojas.
+
+6. Suicida: Termina un nivel con sólo el 1% de la vida restante.
+
+7. Ruta Pacífista: No acabes con ningún enemigo al terminar un nivel.
+
+8. Primera Sangre: Acaba con tu primer enemigo.
+
+9. Un Gran Paso: Acabar el primer nivel.
+
+10. Hombre Hecho y Derecho: Acaba todos los niveles.
+   
+▭▬▬ ▬ ▬▬▬▬▛ • ▜▬▬▬▬ ▬ ▬▬▭
