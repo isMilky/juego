@@ -49,7 +49,7 @@ Guiar a Bob (personaje principal) a tráves de un escenario resguardado por múl
 
 5. Vital: Termina un nivel sin recuperar vida mediante monedas rojas.
 
-6. Suicida: Termina un nivel con sólo el 1% de la vida restante.
+6. ¿Estas bien?: Termina un nivel con sólo el 1% de la vida restante.
 
 7. Ruta Pacífista: No acabes con ningún enemigo al terminar un nivel.
 
