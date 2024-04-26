@@ -72,7 +72,7 @@ class Program
             Console.WriteLine("¡Logro desbloqueado: Vital!");
         }
 
-        // Suicida:
+        // Suicida / ¿Estás Bien?:
 
         if (porcentajeVida <= 1)
         {
