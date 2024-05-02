@@ -32,6 +32,8 @@ Guiar a Bob (personaje principal) a tráves de un escenario resguardado por múl
 4. Canjeo de Monedas Especiales por Vida: Bob puede recolectar otras monedas especiales que le permiten recuperar vida. Estas son independientes de las principales y no impiden que puedas avanzar a la siguiente fase. Estas monedas son de color rojo.
 
 5. Monedas y Salud: Bob al recibir daño de un enemigo perderá monedas amarillas, las cuales podrá volver a recoger. Si Bob recibe otro impacto ahora sin monedas amarillas, perderá una vida (al estilo Sonic The Hedgehog).
+
+6. Frenesí de Monedas: Si Bob toca un cuadro rojo activa un evento de frenesí de monedas como el de Super Mario Bros donde aparecerán múltiples monedas amarillas alrededor de Bob por un tiempo limitado (veáse; 20 segundos).
    
 ▭▬▬ ▬ ▬▬▬▬▛ • ▜▬▬▬▬ ▬ ▬▬▭
 
